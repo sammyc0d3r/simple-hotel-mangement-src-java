@@ -1,32 +1,23 @@
-# Hotel Management System
+**Hotel Management System: Streamline Your Operations**
 
-Welcome to the Hotel Management System project! This system is designed to streamline the operations of a hotel, providing an integrated dashboard for managing employees and customers.
+This comprehensive system empowers you to manage your hotel efficiently, providing a central hub for staff and customer functionalities.
 
-## Table of Contents
+**Get Started Quickly:**
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-The Hotel Management System is a comprehensive solution for managing hotel operations efficiently. It includes functionalities for handling employee and customer data, reservations, billing, and more, all accessible from a user-friendly dashboard.
-
-## Features
-
-- **Employee Management**: Add, update, and remove employee records.
-- **Customer Management**: Manage customer information and reservation details.
-- **Dashboard Integration**: Centralized view of all operations.
-- **Reservation System**: Simplified process for booking and managing reservations.
-- **Billing and Invoicing**: Automated billing system to generate invoices for customers.
-
-## Installation
-
-To install and run the Hotel Management System, follow these steps:
-
-1. **Clone the repository**:
+1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/moha-salad64/HotelManagement.git
+   git clone https://github.com/sammyc0d3r/simple-hotel-mangement-src-java.git
+   ```
+2. **Installation:**
+   Detailed installation instructions are provided in the `INSTALLATION.md` file.
+
+3. **Usage:**
+   The `USAGE.md` file comprehensively guides you through using the system's features.
+
+**Contributing (Optional):**
+
+If you'd like to contribute to the project's development, refer to the `CONTRIBUTING.md` file for guidelines.
+
+**License:**
+
+The code is licensed under the MIT License.
